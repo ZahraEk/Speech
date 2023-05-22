@@ -1,2 +1,2 @@
-# Speech Processing Lesson Exercises.
+# Speech Processing Lesson Exercises
  
